@@ -15,10 +15,10 @@ The schema supports users, products, orders, payments, and order details.
 - Each order has a payment record.
 
 ## 📊 ER Diagram
-![ER Diagram](er-diagram.png)
+![ER Diagram](ecommerce_er_diagram.png)
 
 ## 📜 SQL Script
-See [`ecommercedb`](ecommercedb) for database creation.
+See [`ecommercedb`](ecommercedb.sql) for database creation.
 
 ## 🎯 Key Concepts
 - DDL (CREATE TABLE, FOREIGN KEY)
